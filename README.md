@@ -39,20 +39,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ---
 
-## 📁 Project Structure
-
-```
-client/
-    ├──src/
-        ├── components/        # UI components
-        ├── hooks/             # Custom hooks
-        ├── lib/               # Utility functions
-        ├── pages/             # Main app structure
-        └── styles/            # Tailwind config and custom themes
-```
-
----
-
 ## 🌐 Live Demo
 
 > [!important]
