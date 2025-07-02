@@ -29,7 +29,7 @@ Real-time crypto tracker that keeps you synced with live market prices & histori
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/crypto-pulse.git
+git clone https://github.com/m4dd0c/crypto-pulse.git
 cd crypto-pulse
 npm run install:all 
 npm run dev
