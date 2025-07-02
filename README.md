@@ -1,6 +1,10 @@
 # ⚡ Crypto Pulse
 
 Real-time crypto tracker that keeps you synced with live market prices & historical trends — lightning-fast, minimal, and intuitive.
+
+
+![image](https://github.com/user-attachments/assets/907878d1-b76e-41ca-a8b9-2f0b4cc66f75)
+
 ---
 
 ## 🚀 Features
